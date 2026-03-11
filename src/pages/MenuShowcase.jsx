@@ -24,25 +24,28 @@ export default function MenuShowcase() {
 
 const foods = [
 {
-image: "/images/menu/dish1.jpg",
-title: "Flame-Grilled Canyon Steak",
-desc: "Tender premium steak grilled over open flame and served with seasonal vegetables.",
-},
+  image: "/images/menu/dish1.jpg",
+  title: "Ebésisi Togolese Soup",
+  desc: "A rich coastal-style Togolese soup simmered with crab, smoked fish, peppers, and aromatic spices.",
+}
+,
 {
-image: "/images/menu/dish2.jpg",
-title: "Garden Harvest Bowl",
-desc: "Fresh farm vegetables tossed with citrus dressing and artisan grains.",
-},
+  image: "/images/menu/dish2.jpg",
+  title: "Fresh Fish & Onion Stew",
+  desc: "A delicate Togolese stew of fresh-caught fish simmered with sliced onions, tomatoes, herbs, and a light pepper base.",
+}
+,
 {
 image: "/images/menu/dish3.jpg",
 title: "Golden Desert Chicken",
 desc: "Slow roasted chicken infused with herbs and finished with a golden glaze.",
 },
 {
-image: "/images/menu/dish4.jpg",
-title: "Wildfire Shrimp Plate",
-desc: "Charred shrimp with smoky spices served with roasted peppers.",
-},
+  image: "/images/menu/dish4.jpg",
+  title: "Akoumé & Pepper Sauce",
+  desc: "Soft fermented cornmeal balls paired with a bold Togolese pepper sauce simmered with tomatoes, spices, and smoked aromatics.",
+}
+,
 {
 image: "/images/menu/dish5.jpg",
 title: "Sunset Dessert Platter",
